@@ -1,0 +1,72 @@
+Alfred 4.app
+ArcSoft Photo+.app
+BaiduNetdisk_mac.app
+BetterAndBetter.app
+BrewServicePanel.app
+Cakebrew.app
+CheatSheet.app
+CleanMyMac X.app
+Docker.app
+Downie 4.app
+EasyRes.app
+FinalShell.app
+Fork.app
+FusionAccess.app
+Google Chrome.app
+HapticKey.app
+Hidden Bar.app
+IINA.app
+IT之家.app
+Itsycal.app
+JetBrains Toolbox.app
+Luminar 4.app
+MacDown.app
+Macs Fan Control.app
+Maipo.app
+Manico.app
+Mounty.app
+MyZip.app
+Navicat Premium.app
+Near Lock.app
+NeteaseMusic.app
+One Switch.app
+PD Runner.app
+QQ.app
+QQLive.app
+QQMusic.app
+Recents.app
+Safari.app
+ShadowsocksX-NG.app
+SizeUp.app
+Sourcetree.app
+Stay.app
+SunloginClient.app
+SwitchHosts.app
+Tampermonkey.app
+Telegram Lite.app
+Tencent Lemon.app
+TickTick.app
+Tickeys.app
+Tor Browser.app
+Utilities
+Visual Studio Code.app
+WeChat.app
+Wormhole.app
+XMind.app
+aDrive.app
+apps
+calibre.app
+gfxCardStatus.app
+i4tools.app
+iRightMouse Pro.app
+iTerm.app
+iWall.app
+trojan-qt5.app
+wpsoffice.app
+优酷.app
+抖音.app
+爱奇艺.app
+哔哩哔哩.app
+央视影音.app
+亿图脑图MindMaster.app
+有道云笔记.app

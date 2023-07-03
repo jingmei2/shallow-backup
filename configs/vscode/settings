@@ -1,0 +1,64 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontSize": 16,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -javaagent:\"c:\\Users\\1688\\.vscode\\extensions\\gabrielbb.vscode-lombok-1.0.1\\server\\lombok.jar\"",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "oracledevtools.connectionConfiguration.configFilesFolder": "/Users/magi/Oracle/network/admin",
+    "oracledevtools.bookmarkFileFolder": "/Users/magi/Oracle/oracle.oracledevtools",
+    "oracledevtools.connectionConfiguration.walletFileFolder": "/Users/magi/Oracle/network/admin",
+    "git.autofetch": true,
+    "vs-kubernetes": {
+        "vs-kubernetes.draft-path.mac": "/Users/magi/.vs-kubernetes/tools/draft/darwin-amd64/draft",
+        "vs-kubernetes.minikube-path.mac": "/Users/magi/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+        "vs-kubernetes.helm-path.mac": "/Users/magi/.vs-kubernetes/tools/helm/darwin-amd64/helm"
+    },
+    "kite.showWelcomeNotificationOnStartup": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "git.enableSmartCommit": true,
+    "graalvm.installations": [
+        "/Users/magi/java/graalvm-ee-java17-22.0.0.1/Contents/Home"
+    ],
+    "terminal.integrated.env.osx": {
+        "PATH": "/usr/local/sbin:/Users/magi/anaconda2/bin:/usr/local/sbin:/Users/magi/anaconda2/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/tcl-tk/bin:/usr/local/opt/gettext/bin:/usr/local/opt/openssl@1.1/bin:/usr/local/opt/ruby/bin:/usr/local/opt/apr-util/bin:/usr/local/opt/curl/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/magi/java/apache-maven-3.5.0/bin",
+        "GRAALVM_HOME": "/Users/magi/java/graalvm-ee-java17-22.0.0.1/Contents/Home"
+    },
+    "maven.terminal.customEnv": [],
+    "files.autoSave": "onWindowChange",
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.env.windows": {
+        "GRAALVM_HOME": "/Users/magi/java/GraalVM/graalvm-ee-java17-22.0.0.1/Contents/Home"
+    },
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.inlineSuggest.enabled": true,
+    "java.test.editor.enableShortcuts": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "netbeans.groovySupport.enabled": false,
+    "redhat.telemetry.enabled": true,
+    "graalvm.home": "/Users/magi/java/graalvm-ee-java17-22.0.0.1/Contents/Home",
+    "netbeans.jdkhome": "/Users/magi/java/graalvm-ee-java17-22.0.0.1/Contents/Home",
+    "vsicons.dontShowNewVersionMessage": true,
+    "sync.gist": "f4743f7b3b90bd6d1e5d7b0c4c5f7807",
+    "java.debug.settings.exceptionBreakpoint.skipClasses": [
+    
+    ],
+    "boot-java.rewrite.reconcile": true,
+    "netbeans.javaSupport.enabled": false
+}
